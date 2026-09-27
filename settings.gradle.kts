@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "MiPrimerAppAndroid"
+rootProject.name = "KotlinEcosystemLab"
 include(":app")
  
